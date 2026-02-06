@@ -1,0 +1,6 @@
+launch.json
+bin/
+obj/
+wwwroot/
+.vscode
+.DS_Store
